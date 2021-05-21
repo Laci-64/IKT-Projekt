@@ -1,0 +1,73 @@
+body {
+    background-image: url(./Képek/Hollywoodbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    font-size: 2.8em;
+}
+
+#szoveg {
+    box-shadow: goldenrod;
+    color: black;
+    background-color: goldenrod;
+    opacity: 100;
+    font-size: 1.5em;
+    text-align: justify;
+    border-radius: 20px;
+}
+
+h3 {
+    color: white;
+    font-size: 2.5em;
+}
+
+.navbar {
+    background-color: goldenrod;
+}
+
+.cardbtn {
+    background-color: goldenrod;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.cardbtn:hover {
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+    color: goldenrod;
+}
+
+.card {
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+}
+
+.navbartext {
+    color: goldenrod;
+    /* pointer-events: none; */
+}
+
+footer {
+    font-size: 1.3em;
+    font-weight: 400;
+    color: whitesmoke;
+    font-variant: small-caps;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
+
+p {
+    font-family: fantasy;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    color: black;
+    background-color: goldenrod;
+    border-radius: 15px;
+}
